@@ -1,0 +1,6 @@
+github.com/kritimauludin/example-go-module v1.0.0 h1:lMGG4+nbGwoWAXPMUHtycxbct8DUERmzBKmhKddOBCE=
+github.com/kritimauludin/example-go-module v1.0.0/go.mod h1:+lfzeteZBzqo96oEP56R6P6TnUe+dsSBYclXuoXTl38=
+github.com/kritimauludin/example-go-module v1.1.0 h1:FaTPmSFsHlOYancm/WWfpWfNtIJzSwNioSpg0719uZ4=
+github.com/kritimauludin/example-go-module v1.1.0/go.mod h1:+lfzeteZBzqo96oEP56R6P6TnUe+dsSBYclXuoXTl38=
+github.com/kritimauludin/example-go-module/v2 v2.0.0 h1:WapA6xfZhZdBkHTVIpx1LwyjxWfCHiK1aYJGjiKDvgU=
+github.com/kritimauludin/example-go-module/v2 v2.0.0/go.mod h1:QTfMouNxsWgAoE78QFodCEXDy5zcwYS2UTrNyQfXMTw=
