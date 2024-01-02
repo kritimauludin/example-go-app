@@ -1,5 +1,11 @@
 package main
 
+/**
+Menambah Dependency
+'go get nama-module'
+
+
+*/
 import (
 	"fmt"
 

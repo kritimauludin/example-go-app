@@ -29,3 +29,13 @@ But you can only use method number 2 for development
 1. we can change the contents of the go.mod directly, then tag it to the latest tag version
 2. after that to download the latest version, use the command: go get
 ```
+### Next ?
+```
+1. Go-Lang Basic 
+2. Go-Lang Standard Library 
+2. Go-Lang Modules <-this your position
+3. Go-Lang Unit Test <-next position
+4. Go-Lang Goroutine
+5. Go-Lang Database
+6. Go-Lang Web
+```

@@ -1,0 +1,8 @@
+Upgrade Dependency
+
+● Untuk upgrade dependency ke versi terbaru, kita bisa mengubah isi go.mod, lalu mengubah tag nya
+menjadi tag terbaru
+● Untuk mendownload versi terbaru, gunakan perintah : go get
+
+misal awalnya v1.0.0 ubah jadi versi baru misal v1.5.0
+jalankan perintah go get
